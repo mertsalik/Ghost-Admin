@@ -5122,10 +5122,10 @@ ember-compatibility-helpers@^1.1.1, ember-compatibility-helpers@^1.2.0:
     ember-cli-version-checker "^2.1.1"
     semver "^5.4.1"
 
-ember-composable-helpers@2.4.0:
-  version "2.4.0"
-  resolved "https://registry.yarnpkg.com/ember-composable-helpers/-/ember-composable-helpers-2.4.0.tgz#024bd6a8c338cc9cdf10f1141b119b8f72de205f"
-  integrity sha512-91ZqFnNG1EDL3WzxXWTgAy6EonPS7htWHletI5SOw5ezEzKbt6EGNBwT6QPhwariugtR8LEfYNQ9lXEiCZrX1w==
+ember-composable-helpers@3.0.1:
+  version "3.0.1"
+  resolved "https://registry.yarnpkg.com/ember-composable-helpers/-/ember-composable-helpers-3.0.1.tgz#a9fbc1f5ea6346fa0b2a912e56d3d8c73ef1fc00"
+  integrity sha512-2Q2oxr7K0qclxUzUCdWBUvqWxRF9ZghcZi76Dgfh2CNjXGG+v+0Y816yDGLOYYBZmqtqAdl/Js0esVifLXZn2A==
   dependencies:
     "@babel/core" "^7.0.0"
     broccoli-funnel "2.0.1"
@@ -5448,10 +5448,10 @@ ember-router-generator@^1.2.3:
   dependencies:
     recast "^0.11.3"
 
-ember-simple-auth@1.9.2:
-  version "1.9.2"
-  resolved "https://registry.yarnpkg.com/ember-simple-auth/-/ember-simple-auth-1.9.2.tgz#ee8b1b0ec4c5c0e08bc94560cb90552d4ae7fd5d"
-  integrity sha512-WTG2uGe8+TIfwsy5eaS7uIszEmyQ/pjKLUMjyq6YYkU9d9erSXVRiuO4h46OxTEbVI3c17mjAu/4kTxc+BOFZw==
+ember-simple-auth@2.1.0:
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/ember-simple-auth/-/ember-simple-auth-2.1.0.tgz#d81802746852c68a52c18475a98a82d0d3c3779b"
+  integrity sha512-iHgi7wkYac8v+Ogxs6gyfoSpFV3QuVT9FjeB9FDka0ZQMRonSji8wfR1w5cIV2enYTqhh5CFa0aDHYVCUrCkyw==
   dependencies:
     base-64 "^0.1.0"
     broccoli-file-creator "^2.0.0"
